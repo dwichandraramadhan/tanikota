@@ -1,0 +1,61 @@
+{
+    "theme_color": "#417505",
+    "background_color": "#fff",
+    "display": "standalone",
+    "start_url": "https://tanikotamodern.blogspot.com/",
+    "prefer_related_applications": false,
+    "name": "Tanikota.id",
+    "short_name": "Tanikota.id",
+    "description": "Aplikasi Toko Online Tani",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhjIy1g7LLV_PecixXhq7aV8fYx-YfX-axLJK_MnfYjpYssg-BxuadsDPZi9B-lz8QZygFk_5N5BMwTyxEYWIyDRFCpzzBEs_y5z2ljAe0-_08dzI3YTHaZHZAuFmHeWydXdX2m2JZJICjVazoKbmklJnfxDaxRCMHwGGZAySRtEqz5nfhHSj-2Ff1c=s192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any" 
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhjIy1g7LLV_PecixXhq7aV8fYx-YfX-axLJK_MnfYjpYssg-BxuadsDPZi9B-lz8QZygFk_5N5BMwTyxEYWIyDRFCpzzBEs_y5z2ljAe0-_08dzI3YTHaZHZAuFmHeWydXdX2m2JZJICjVazoKbmklJnfxDaxRCMHwGGZAySRtEqz5nfhHSj-2Ff1c=s192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable" 
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhjIy1g7LLV_PecixXhq7aV8fYx-YfX-axLJK_MnfYjpYssg-BxuadsDPZi9B-lz8QZygFk_5N5BMwTyxEYWIyDRFCpzzBEs_y5z2ljAe0-_08dzI3YTHaZHZAuFmHeWydXdX2m2JZJICjVazoKbmklJnfxDaxRCMHwGGZAySRtEqz5nfhHSj-2Ff1c=s256",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhjIy1g7LLV_PecixXhq7aV8fYx-YfX-axLJK_MnfYjpYssg-BxuadsDPZi9B-lz8QZygFk_5N5BMwTyxEYWIyDRFCpzzBEs_y5z2ljAe0-_08dzI3YTHaZHZAuFmHeWydXdX2m2JZJICjVazoKbmklJnfxDaxRCMHwGGZAySRtEqz5nfhHSj-2Ff1c=s256",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhjIy1g7LLV_PecixXhq7aV8fYx-YfX-axLJK_MnfYjpYssg-BxuadsDPZi9B-lz8QZygFk_5N5BMwTyxEYWIyDRFCpzzBEs_y5z2ljAe0-_08dzI3YTHaZHZAuFmHeWydXdX2m2JZJICjVazoKbmklJnfxDaxRCMHwGGZAySRtEqz5nfhHSj-2Ff1c=s384",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhjIy1g7LLV_PecixXhq7aV8fYx-YfX-axLJK_MnfYjpYssg-BxuadsDPZi9B-lz8QZygFk_5N5BMwTyxEYWIyDRFCpzzBEs_y5z2ljAe0-_08dzI3YTHaZHZAuFmHeWydXdX2m2JZJICjVazoKbmklJnfxDaxRCMHwGGZAySRtEqz5nfhHSj-2Ff1c=s384",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhjIy1g7LLV_PecixXhq7aV8fYx-YfX-axLJK_MnfYjpYssg-BxuadsDPZi9B-lz8QZygFk_5N5BMwTyxEYWIyDRFCpzzBEs_y5z2ljAe0-_08dzI3YTHaZHZAuFmHeWydXdX2m2JZJICjVazoKbmklJnfxDaxRCMHwGGZAySRtEqz5nfhHSj-2Ff1c=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhjIy1g7LLV_PecixXhq7aV8fYx-YfX-axLJK_MnfYjpYssg-BxuadsDPZi9B-lz8QZygFk_5N5BMwTyxEYWIyDRFCpzzBEs_y5z2ljAe0-_08dzI3YTHaZHZAuFmHeWydXdX2m2JZJICjVazoKbmklJnfxDaxRCMHwGGZAySRtEqz5nfhHSj-2Ff1c=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
+
